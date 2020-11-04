@@ -75,7 +75,7 @@ text-decoration: none;
 
 .header-button a {
   color: darkred;
-  border: solid darkred;
+  border: 1px solid darkred;
   padding: 20px;
   text-decoration: none;
 }
